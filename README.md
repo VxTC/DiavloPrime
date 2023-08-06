@@ -14,3 +14,8 @@ Diavlo está en su prime con los leaks de sus dbs junto a un "cliente" con desen
 ## Semi-exposed Diavlo
 Si quieres ver cómo te está estafando diavlo con sus nuevas "herramientas". Entra al siguiente canal de Telegram:
 - [Click aqui](https://t.me/SergioLuisVazquezVera)
+
+# Novedades
++ Interfáz gráfica y accesible
++ Ahora te dice si no ha encontrado información
++ Añadido poder ver la cantidad de dbs importadas
